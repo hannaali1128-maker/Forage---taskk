@@ -1,8 +1,0 @@
-{
-  "deviceID": "D1001",
-  "deviceType": "sensor",
-  "timestamp": 1680000000000,
-  "location": "India/Delhi/Area51/Factory1/SectionA",
-  "operationStatus": "active",
-  "temp": 35
-}
